@@ -1,0 +1,6 @@
+name = input('What is your name? ')
+print('Nice to meet you ', name)
+Age = input('What is your Age?  ')
+print('You are ', Age)
+Location = input('Where do you live? ')
+print(Location, ',that is a nice place. ')
